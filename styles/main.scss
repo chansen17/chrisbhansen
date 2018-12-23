@@ -91,9 +91,10 @@ p {
 
 .flex-nav {
    display: flex;
-   justify-content: space-between;
+   justify-content: center;
    align-items: center;
    background: #eee;
+   overflow: hidden;
    #slideBtn {
          margin-right: 25px;
    }
